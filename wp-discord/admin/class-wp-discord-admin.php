@@ -24,8 +24,6 @@ if (!defined('WPINC')) {
  */
 
 include_once(plugin_dir_path(__FILE__) . 'class-settings-tab.php');
-include_once(plugin_dir_path(__FILE__) . '../includes/class-wp-discord-widget.php');
-include_once(plugin_dir_path(__FILE__) . '../includes/class-wp-discord-shortcodes.php');
 
 class WP_Discord_Admin
 {
